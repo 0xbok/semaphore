@@ -11,7 +11,7 @@ import supportedNetworks from "./supported-networks"
 export type SupportedNetwork = keyof typeof supportedNetworks
 
 // Default Semaphore network.
-export const defaultNetwork: SupportedNetwork = "sepolia"
+export const defaultNetwork: SupportedNetwork = "kakarot"
 
 /**
  * Returns true if a network is supported by Semaphore, false otherwise.

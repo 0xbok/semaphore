@@ -7,6 +7,7 @@ export type EthersNetwork =
     | "arbitrum-sepolia"
     | "optimism"
     | "optimism-sepolia"
+    | "kakarot"
 
 export type GroupOptions = {
     members?: boolean

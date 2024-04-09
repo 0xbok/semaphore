@@ -22,5 +22,11 @@ export default {
         url: "https://rpc-mumbai.polygon.technology",
         chainId: 80001,
         explorer: "https://mumbai.polygonscan.com"
+    },
+    "kakarot": {
+        name: "kakarot",
+        url: "",
+        chainId: 0,
+        explorer: ""
     }
 }
